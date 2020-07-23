@@ -1,0 +1,22 @@
+3
+<begin_topic>
+:id: 1
+:subject: CS12 Assignment 7
+:from: messi
+:body: The assignment is hard so go step by step.
+You can read the Tips & Tricks part for some help.
+Has anyone started already?
+<end>
+<begin_topic>
+:id: 2
+:subject: New Topic1
+:from: ali87
+:children: 3
+:body: New Topic body1
+<end>
+<begin_topic>
+:id: 3
+:subject: Re: New Topic1
+:from: ali87
+:body: New reply to topic 1
+<end>

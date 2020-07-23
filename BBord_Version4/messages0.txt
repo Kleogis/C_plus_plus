@@ -1,0 +1,41 @@
+6
+<begin_topic>
+:id: 1
+:subject: This is new topic
+:from: ali87
+:children: 2
+:body: Topic  # 1
+<end>
+<begin_reply>
+:id: 2
+:subject: Re: This is new topic
+:from: ali87
+:children: 3 4
+:body: this is reply to msg 1
+<end>
+<begin_reply>
+:id: 3
+:subject: Re: Re: This is new topic
+:from: ali87
+:children: 5
+:body: this is another reply to reply (msg2)
+
+<end>
+<begin_reply>
+:id: 4
+:subject: Re: Re: This is new topic
+:from: ali87
+:body: new reply to reply
+<end>
+<begin_reply>
+:id: 5
+:subject: Re: Re: Re: This is new topic
+:from: ali87
+:body: This is another Reply to msg 3
+<end>
+<begin_topic>
+:id: 6
+:subject: New topic # 2
+:from: ali87
+:body: Another test for new topic
+<end>
